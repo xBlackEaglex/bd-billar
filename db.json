@@ -92,6 +92,12 @@
         },
         { 
             "id": 16, 
+            "producto": "cafe", 
+            "precio": 10,
+            "img": "/cafe.png"
+        },
+        { 
+            "id": 17, 
             "producto": "$0", 
             "precio": 0,
             "img": "/moneda.png"
